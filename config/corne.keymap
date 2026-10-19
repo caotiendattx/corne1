@@ -39,10 +39,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp ESCAPE  &kp N1           &kp N2       &kp N3            &kp N4      &kp N5          &kp N6           &kp N7            &kp N8             &kp N9                &kp N0                 &kp BSPC
+&kp ESCAPE  &kp N1           &kp N2       &kp N3            &kp N4      &kp N5          &kp N6           &kp N7            &kp N8             &kp N9                &kp N0                 &kp MINUS
 &kp GRAVE   &kp EXCLAMATION  &kp AT_SIGN  &kp HASH          &kp DOLLAR  &kp PERCENT     &kp CARET        &kp AMPERSAND     &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp NON_US_BACKSLASH
 &kp TILDE   &kp UNDERSCORE   &kp MINUS    &kp EQUAL         &kp PLUS    &kp CAPSLOCK    &kp PRINTSCREEN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE
-                                          &kp LEFT_CONTROL  &trans      &kp SPACE       &kp RET          &trans            &kp END
+                                          &kp LEFT_CONTROL  &trans      &kp SPACE       &kp RET          &trans            &kp BACKSPACE
             >;
         };
 
